@@ -18,9 +18,9 @@ Amo a área e tenho muita dedicação para levar meus estudos e profissão adian
 </div>
 
 <div align="center">
-  <a href="https://github.com/jonathan061"> 
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jonathan061&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan061&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/Jonathan061"> 
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jonathan061&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan061&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
